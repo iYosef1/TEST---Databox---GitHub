@@ -1,0 +1,10 @@
+trip_id,starttime,stoptime,bikeid,tripduration,from_station_id,from_station_name,to_station_id,to_station_name,usertype,gender,birthyear
+5943500,6/30/2015 23:59,7/1/2015 0:10,1712,626,332,Halsted St & Diversey Pkwy,327,Sheffield Ave & Webster Ave,Subscriber,Male,1993
+5943499,6/30/2015 23:59,7/1/2015 0:23,4209,1428,490,Troy St & Elston Ave,227,Southport Ave & Waveland Ave,Customer,,
+5943498,6/30/2015 23:59,7/1/2015 0:06,4102,443,332,Halsted St & Diversey Pkwy,327,Sheffield Ave & Webster Ave,Subscriber,Female,1995
+5943497,6/30/2015 23:58,7/1/2015 0:19,2591,1224,112,Green St & Randolph St,222,Milwaukee Ave & Rockwell St,Subscriber,Male,1977
+5943495,6/30/2015 23:57,7/1/2015 0:24,1188,1604,144,Larrabee St & Webster Ave,350,Ashland Ave & Chicago Ave,Customer,,
+5943494,6/30/2015 23:57,7/1/2015 0:11,4293,865,43,Michigan Ave & Washington St,59,Wabash Ave & Roosevelt Rd,Subscriber,Female,1993
+5943493,6/30/2015 23:57,7/1/2015 0:35,521,2285,43,Michigan Ave & Washington St,59,Wabash Ave & Roosevelt Rd,Subscriber,Male,1993
+5943492,6/30/2015 23:57,7/1/2015 0:16,581,1156,43,Michigan Ave & Washington St,57,Clinton St & Roosevelt Rd,Subscriber,Male,1994
+5943490,6/30/2015 23:56,7/1/2015 0:16,2605,1199,43,Michigan Ave & Washington St,57,Clinton St & Roosevelt Rd,Subscriber,Male,1993
